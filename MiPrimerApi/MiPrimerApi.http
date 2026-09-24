@@ -1,0 +1,38 @@
+@MiPrimerApi_HostAddress = http://localhost:5018
+
+GET {{MiPrimerApi_HostAddress}}/api/books
+Accept: application/json
+
+###
+
+GET {{MiPrimerApi_HostAddress}}/api/books/1
+Accept: application/json
+
+###
+
+POST {{MiPrimerApi_HostAddress}}/api/books
+Content-Type: application/json
+
+{
+	"title": "Refactoring",
+	"author": "Martin Fowler",
+	"year": 1999
+}
+
+###
+
+PUT {{MiPrimerApi_HostAddress}}/api/books/1
+Content-Type: application/json
+
+{
+	"title": "Clean Code (Updated)",
+	"author": "Robert C. Martin",
+	"year": 2008
+}
+
+###
+
+DELETE {{MiPrimerApi_HostAddress}}/api/books/2
+Accept: application/json
+
+###
