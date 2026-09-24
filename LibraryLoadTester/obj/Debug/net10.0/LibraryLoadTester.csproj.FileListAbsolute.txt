@@ -1,0 +1,14 @@
+C:\Estudio\Teleco 1\Lab_REST_CRUD\LibraryLoadTester\bin\Debug\net10.0\LibraryLoadTester.exe
+C:\Estudio\Teleco 1\Lab_REST_CRUD\LibraryLoadTester\bin\Debug\net10.0\LibraryLoadTester.deps.json
+C:\Estudio\Teleco 1\Lab_REST_CRUD\LibraryLoadTester\bin\Debug\net10.0\LibraryLoadTester.runtimeconfig.json
+C:\Estudio\Teleco 1\Lab_REST_CRUD\LibraryLoadTester\bin\Debug\net10.0\LibraryLoadTester.dll
+C:\Estudio\Teleco 1\Lab_REST_CRUD\LibraryLoadTester\bin\Debug\net10.0\LibraryLoadTester.pdb
+C:\Estudio\Teleco 1\Lab_REST_CRUD\LibraryLoadTester\obj\Debug\net10.0\LibraryLoadTester.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudio\Teleco 1\Lab_REST_CRUD\LibraryLoadTester\obj\Debug\net10.0\LibraryLoadTester.AssemblyInfoInputs.cache
+C:\Estudio\Teleco 1\Lab_REST_CRUD\LibraryLoadTester\obj\Debug\net10.0\LibraryLoadTester.AssemblyInfo.cs
+C:\Estudio\Teleco 1\Lab_REST_CRUD\LibraryLoadTester\obj\Debug\net10.0\LibraryLoadTester.csproj.CoreCompileInputs.cache
+C:\Estudio\Teleco 1\Lab_REST_CRUD\LibraryLoadTester\obj\Debug\net10.0\LibraryLoadTester.dll
+C:\Estudio\Teleco 1\Lab_REST_CRUD\LibraryLoadTester\obj\Debug\net10.0\refint\LibraryLoadTester.dll
+C:\Estudio\Teleco 1\Lab_REST_CRUD\LibraryLoadTester\obj\Debug\net10.0\LibraryLoadTester.pdb
+C:\Estudio\Teleco 1\Lab_REST_CRUD\LibraryLoadTester\obj\Debug\net10.0\LibraryLoadTester.genruntimeconfig.cache
+C:\Estudio\Teleco 1\Lab_REST_CRUD\LibraryLoadTester\obj\Debug\net10.0\ref\LibraryLoadTester.dll
